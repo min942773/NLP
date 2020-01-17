@@ -1,5 +1,4 @@
 # NLP
-<br>
 
 ### Mastering Natural Language Processing with Python
 ### 파이썬과 자연어 처리
